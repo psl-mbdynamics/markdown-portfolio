@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[MyGitHubPage](https://psl-mbdynamics.github.io/markdown-portfolio/)
+[MB Dynamics](https://www.mbdynamics.com/)
